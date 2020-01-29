@@ -58,7 +58,7 @@ body
     width: 235px;
     border: 1px solid red;
 
-    background-image: url(sheeta.png);
+    background-image: url(sheetas.png);
     background-size: cover;
 
     animation-name: sheeta-animation-normal;
@@ -82,7 +82,7 @@ body
     width: 235px;
     border: 1px solid black;
 
-    background-image: url(sheeta.png);
+    background-image: url(sheetas.png);
     background-size: cover;
 
     animation-name: sheeta-animation-infinito;
